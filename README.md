@@ -1,4 +1,9 @@
 # weatherApp_usingCrud
+
+. created by using HTML5,CSS3,BOOTSTRAP4,API,JAVASCRIPT,NODE
+.you can find all the weather details just type the name of city.
+//outpuut
+
 // home page
 ![image](https://user-images.githubusercontent.com/89450319/201537263-b8269dbd-b22e-414b-84cd-5e647a35295c.png)
 // about page
